@@ -1,8 +1,5 @@
 {
   "root": true,
-  // "globals": {
-  //   "Swiper": "readonly"
-  // },
   "env": {
     "browser": true,
     "node": true,
