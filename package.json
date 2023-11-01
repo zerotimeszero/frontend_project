@@ -9,6 +9,7 @@
     "preview": "vite preview",
     "lint": "eslint . --ext .js --fix",
     "lint:prettier": "prettier --check \"**/*.{js,html}\"",
+    "lint:prettier:fix": "prettier --write \"**/*.{js,html}\"",
     "lint:stylelint": "stylelint \"src/**/*.css\""
   },
   "browserslist": [
