@@ -1,0 +1,40 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #000;
+  border-radius: 8px;
+  padding: 1px;
+  flex: 1;
+  position: relative;
+}
+
+.card__image {
+  width: 100%;
+  object-fit: cover;
+  max-height: 192px;
+}
+
+.card__body {
+  padding: 20px;
+  flex-grow: 1;
+}
+
+.card__title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.card__text {
+  padding-top: 10px;
+  line-height: 24px;
+  color: #6b7280;
+}
+
+.card__info {
+  padding: 19px;
+  display: flex;
+  gap: 5px;
+  color: #6b7280;
+  flex-wrap: wrap;
+}
