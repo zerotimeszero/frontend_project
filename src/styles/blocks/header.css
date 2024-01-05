@@ -1,25 +1,25 @@
-.header{
-    padding: 10px 0;
-    color: #fff;
-    background-color: #1F2937;
-    position: relative;
+.header {
+  padding: 10px 0;
+  color: #fff;
+  background-color: #1f2937;
+  position: relative;
 }
 
-.header__content{
-    display: flex;
-    align-items: center;
+.header__content {
+  display: flex;
+  align-items: center;
 }
 
-.header__navbar{
-    padding-left: 30px;
-    flex-grow: 1;
+.header__navbar {
+  padding-left: 30px;
+  flex-grow: 1;
 }
-.header__hamburger-menu{
-    display: none;
+.header__hamburger-menu {
+  display: none;
 }
 
-.header__side--left{
-    display: flex;
-    align-items: center;
-    gap: 30px;
+.header__side--left {
+  display: flex;
+  align-items: center;
+  gap: 30px;
 }

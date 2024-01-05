@@ -12,9 +12,9 @@
 @import 'blocks/card.css';
 @import 'blocks/footer.css';
 
-.block-scroll{
-    overflow-y: hidden
+.block-scroll {
+  overflow-y: hidden;
 }
-.spacer{
-    padding-top: 30px;
+.spacer {
+  padding-top: 30px;
 }

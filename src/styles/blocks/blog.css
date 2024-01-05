@@ -1,27 +1,27 @@
-.blog{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.blog {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
-.blog__header{
-    display: flex;
-    flex-direction: column;
-    padding-top: 30px;
-    align-items: center;
+.blog__header {
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  align-items: center;
 }
-.blog__title{
-    font-weight: 700;
-    font-size: 32px;
-    line-height: 40px;
+.blog__title {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
 }
-.blog__subtitle{
-    font-size: 20px;
-    line-height: 28px;
-    color: #6B7280;
-    padding-top: 10px;
+.blog__subtitle {
+  font-size: 20px;
+  line-height: 28px;
+  color: #6b7280;
+  padding-top: 10px;
 }
-.blog__cards{
-    padding: 40px 0;
-    display: flex;
-    gap: 20px;
+.blog__cards {
+  padding: 40px 0;
+  display: flex;
+  gap: 20px;
 }

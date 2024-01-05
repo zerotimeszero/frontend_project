@@ -1,8 +1,7 @@
-.message__title{
-    font-size: 24px;
-    line-height: 20px;
+.message__title {
+  font-size: 24px;
+  line-height: 20px;
 }
-.message__text{
-    padding-top: 15px;
-
+.message__text {
+  padding-top: 15px;
 }
